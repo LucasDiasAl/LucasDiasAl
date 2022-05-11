@@ -2,7 +2,7 @@
   <strong><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/>Olá, Meu nome é Lucas Dias</strong>
 </h1>
 
-<p align="center"><img align="center" width="200" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></p>
+<p align="center"><img align="center" width="300" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></p>
 
 <h2 align="center"><strong>Um pouco sobre mim</strong><h2>
 
