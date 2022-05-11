@@ -23,19 +23,11 @@
   <br>
   
   <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielessenio/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasdiasal/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50px">
   </a>
     
-  <a href="https://www.instagram.com/gabrielessenio/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="50px">
-  </a> 
-    
-  <a href="https://t.me/gabrielessenio" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="50x">
-  </a>
-    
-  <a href="mailto:gabriel.essenio@gmail.com" target="_blank">
+  <a href="mailto:lucaalencarID@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/344/gmail-new.png" alt="Gmail"  width="50" />
   </a>
   </p>  
