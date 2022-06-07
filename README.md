@@ -8,7 +8,7 @@
 
 <h3>  
   
-  - 📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo [IESB](https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead/#formulario).
+  - 📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead/#formulario" target="blanc"> IESB </a>
   
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
   
@@ -23,11 +23,11 @@
   <br>
   
   <p align="center">
-  <a href="https://www.linkedin.com/in/lucasdiasal/" target="_blanc">
+  <a href="https://www.linkedin.com/in/lucasdiasal/" target="blanc">
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50px">
   </a>
     
-  <a href="mailto:lucaalencarID@gmail.com" target="_blanc">
+  <a href="mailto:lucaalencarID@gmail.com" target="blanc">
     <img src="https://img.icons8.com/fluency/344/gmail-new.png" alt="Gmail"  width="50" />
   </a>
   </p>  
