@@ -8,7 +8,7 @@
 
 <h3>  
   
-  - 📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead/#formulario"target="_blank"> IESB </a>
+  - 📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead/#formulario" target="_blank"> IESB </a>
   
   - 🇺🇸 Nível de Ingês: **Upper Intermediate**
   
