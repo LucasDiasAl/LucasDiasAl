@@ -1,3 +1,10 @@
+<div align="center">  
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+  [![Linkedin: Lucas Dias](https://img.shields.io/badge/-lucasdiasal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdiasal/)](https://www.linkedin.com/in/lucasdiasal/)
+  [![Gmail Badge](https://img.shields.io/badge/-lucaalencarID@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaalencarid@gmail.com)](mailto:lucaalencarid@gmail.com)
+  [![GitHub lucas dias]( https://img.shields.io/github/followers/LucasDiasAl?label=follow&style=social)](https://www.linkedin.com/in/lucasdiasal/)
+</div>
 <p align="center">
   <a href="https://github.com/LucasDiasAl" target="_blank" rel="noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasAl&theme=dark&show_icons=true" />
@@ -68,10 +75,5 @@
   ![Trello](https://img.shields.io/badge/-Trello-f0f0f0?style=for-the-badge&logo=trello&logoColor=007ACC)
 </div>
 <br/>
-<h3 align="center"> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-<div align="center">
-  [![Linkedin: Lucas Dias](https://img.shields.io/badge/-lucasdiasal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdiasal/)](https://www.linkedin.com/in/lucasdiasal/)
-  [![Gmail Badge](https://img.shields.io/badge/-lucaalencarID@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaalencarid@gmail.com)](mailto:lucaalencarid@gmail.com)
-  [![GitHub lucas dias]( https://img.shields.io/github/followers/LucasDiasAl?label=follow&style=social)](https://www.linkedin.com/in/lucasdiasal/)
-</div>
+
 
