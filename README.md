@@ -11,6 +11,7 @@
 
 <h3 align="center"> 
     🧔‍♂️SOBRE MIM: </br>
+  
    📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead/#formulario" target="_blank" rel="noreferrer"> IESB </a>
   
    📚 Estou aprofundando meus conhecimento em Java e algoritimos
