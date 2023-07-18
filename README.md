@@ -7,10 +7,10 @@
 </div>
 <p align="center">
   <a href="https://github.com/LucasDiasAl" target="_blank" rel="noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasAl&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasAl&show_icons=true&theme=dark&hide=contribs" />
   </a>
 </p>
-
+<!-- [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDiasAl&show_icons=true&theme=dark)](https://github.com/LucasDiasAl/github-readme-stats) -->
 <p align="center">
   <img align="center" src="https://img.shields.io/static/v1?label=Overview&message=Lucas Dias&theme=dark&style=for-the-badge&logo=GitHub">
 </p>
