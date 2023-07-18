@@ -10,9 +10,9 @@
 
 
 <h3 align="center"> 
-    🧔‍♂️SOBRE MIM: </br>
+    🧔‍♂️SOBRE MIM:
   
-   📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead/#formulario" target="_blank" rel="noreferrer"> IESB </a>
+   📚 Estou estudando <strong>BANCO DE DADOS E ARMAZENAMENTO DE BIG DATA</strong> pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead" target="_blank" rel="noreferrer"> IESB </a>
   
    📚 Estou aprofundando meus conhecimento em Java e algoritimos
     
@@ -30,7 +30,7 @@
 <br/>
 <h3 align="center"> :rocket: &nbsp;Minhas Skills: </h3>
 <div align="center">
-**Aplicações e Dados**
+  Aplicações e Dados
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
