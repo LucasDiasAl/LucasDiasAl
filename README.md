@@ -10,7 +10,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiasAl&show_icons=true&theme=dark&hide=contribs" />
   </a>
 </p>
-<!-- [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDiasAl&show_icons=true&theme=dark)](https://github.com/LucasDiasAl/github-readme-stats) -->
 <p align="center">
   <img align="center" src="https://img.shields.io/static/v1?label=Overview&message=Lucas Dias&theme=dark&style=for-the-badge&logo=GitHub">
 </p>
@@ -57,6 +56,8 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Sequelize](https://img.shields.io/badge/Sequelize-00599C?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![Moongose](https://img.shields.io/badge/Moongose-4d0813?style=for-the-badge)
+  
   
 
 **Utilidades**
