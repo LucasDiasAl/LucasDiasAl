@@ -1,7 +1,7 @@
 
   <div class="container">
       <h1>Lucas Dias</h1>
-      <p><strong> Engenheiro de dados | Java | Python</strong></p>
+      <p><strong> Engenheiro de dados | Python | SQL | NoSQL |</strong></p>
       <p>Formação: Banco de dados e armazenamento big data pelo <a href="https://www.iesb.br/cursos/banco-de-dados-e-armazenamento-de-big-data-ead" target="_blank" rel="noreferrer">IESB</a></p>
   </div>
 
